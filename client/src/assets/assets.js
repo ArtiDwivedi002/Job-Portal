@@ -35,9 +35,6 @@ import samsung_logo from './samsung_logo.png'
 import adobe_logo from './adobe_logo.png'
 import amazon_logo from './amazon_logo.png'
 
-
-
-
 export const assets = {
     logo,
     search_icon,
@@ -60,7 +57,6 @@ export const assets = {
     suitcase_icon,
     person_icon,
     facebook_icon,
-  
     instagram_icon,
     twitter_icon,
     home_icon,

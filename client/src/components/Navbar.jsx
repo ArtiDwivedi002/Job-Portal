@@ -24,7 +24,7 @@ const Navbar = () => {
         <img
           onClick={() => navigate('/')}
           className='w-[120px] cursor-pointer max-sm:w-[100px]'
-          src={assets.jobsIcon}
+          src={assets.jo}
           alt='logo'
         />     {
           user ? (

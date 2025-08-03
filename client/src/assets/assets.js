@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import search_icon from "./search_icon.svg";
 import company_icon from "./company_icon.svg";
+import jobsIcon from './JobsLogo.png'
 import microsoft_logo from "./microsoft_logo.svg";
 import walmart_logo from "./walmart_logo.svg";
 import accenture_logo from "./accenture_logo.png";
@@ -34,6 +35,9 @@ import samsung_logo from './samsung_logo.png'
 import adobe_logo from './adobe_logo.png'
 import amazon_logo from './amazon_logo.png'
 
+
+
+
 export const assets = {
     logo,
     search_icon,
@@ -56,6 +60,7 @@ export const assets = {
     suitcase_icon,
     person_icon,
     facebook_icon,
+  
     instagram_icon,
     twitter_icon,
     home_icon,
@@ -69,7 +74,10 @@ export const assets = {
     lock_icon,
     samsung_logo,
     adobe_logo,
-    amazon_logo
+    amazon_logo,
+    jobsIcon
+  
+    
 }
 
 export const JobCategories = [
